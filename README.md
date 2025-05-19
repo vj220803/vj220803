@@ -1,17 +1,20 @@
 ## Hi there 👋
-
+# 💫 About Me:
+<br>
 - 🧠 I’m currently a student in Fergusson College Pune, Maharashtra
 - 🦾 Pursuing Masters in Data Science From a FC college.
 - 🥇 Data Enthusiasts. Enjoying learning the different evolving side of data world. Want to make carrer in data world. Passionate in learning new technologies and explore new things.
 - 🛠 Dealing with Data Handling, Data Visualising, Insights, Prediction, Analysis, Making positive data driven decisions.
-- 💬 Hanrdworking and Perfectionist in Work and Academics.
+- 📈 Hardworking and Perfectionist in Work and Academics.
 - 🎯 Linkedin profile link: www.linkedin.com/in/vijayan-naidu-ba9494330
 
 ------------------------------------------------------------------------------------------------------------------------
 
-# 💫 About Me:
-<br>
+- 💡 Interests: AI for Social Good, Tech for Sustainability, and Open Source contributions.
+- ✉️ Reach me: [venkatesh45naidu@gmail.com](mailto:venkatesh45maidu@gmail.com) or [vijayan22naidu@gmail.com]
+- 📫 LinkedIn: [www.linkedin.com/in/vijayan-naidu-ba9494330]
 
+Let's connect and create something amazing! 🚀
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:venkatesh45naidu@gmail.com) 
