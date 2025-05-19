@@ -1,12 +1,12 @@
 # Hi there 👋
 ## 💫 About Me:
 <br>
-1.  🧠 I’m currently a student in Fergusson College Pune, Maharashtra
-2. 🦾 Pursuing Masters in Data Science From a FC college.
-3. 🥇 Data Enthusiasts. Enjoying learning the different evolving side of data world. Want to make carrer in data world. Passionate in learning new technologies and explore new things.
-4. 🛠 Dealing with Data Handling, Data Visualising, Insights, Prediction, Analysis, Making positive data driven decisions.
-5. 📈 Hardworking and Perfectionist in Work and Academics.
-6. 🎯 Linkedin profile link: www.linkedin.com/in/vijayan-naidu-ba9494330
+1. 🧠 I’m currently a student in Fergusson College Pune, Maharashtra  
+2. 🦾 Pursuing Masters in Data Science From a FC college.  
+3. 🥇 Data Enthusiasts. Enjoying learning the different evolving side of data world. Want to make carrer in data world. Passionate in learning new technologies and explore new things.  
+4. 🛠 Dealing with Data Handling, Data Visualising, Insights, Prediction, Analysis, Making positive data driven decisions.  
+5. 📈 Hardworking and Perfectionist in Work and Academics.  
+6. 🎯 Linkedin profile link: www.linkedin.com/in/vijayan-naidu-ba9494330  
 
 ------------------------------------------------------------------------------------------------------------------------
 
