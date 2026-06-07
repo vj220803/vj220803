@@ -103,17 +103,15 @@ My work primarily focuses on transforming complex business and healthcare proble
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=vj220803&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vj220803&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vj220803&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=vj220803&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vj220803&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=vj220803&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vj220803&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
