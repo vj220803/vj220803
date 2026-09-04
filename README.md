@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=4364F7&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Developer+%7C+Applied+AI+Engineer;Former+AI%2FML+Developer+Intern+%40+vedika.health;MSc+Data+Science+%40+Fergusson+College%2C+Pune;Multimodal+AI+%E2%80%A2+GenAI+%E2%80%A2+Intelligent+Document+Processing;Architecting+High-Performance+AI+Pipelines+%F0%9F%9A%80" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=4364F7&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Developer+%7C+Applied+AI+Engineer;Former+AI%2FML+Developer+Intern+%40+Vedika.Health;MSc+Data+Science+%40+Fergusson+College%2C+Pune;Multimodal+AI+%E2%80%A2+GenAI+%E2%80%A2+Intelligent+Document+Processing;Architecting+High-Performance+AI+Pipelines+%F0%9F%9A%80" alt="Typing introduction" />
 </p>
 
 <p align="center">
@@ -29,12 +29,12 @@
 
 ## 👨💻 About Me
 
-I'm an **Applied AI/ML Developer and Data Science Postgraduate Student at Fergusson College, Pune**, and former **AI/ML Developer Intern at vedika.health** (Jan 1 – Aug 30, 2024).
+I'm an **Applied AI/ML Developer and Data Science Postgraduate Student at Fergusson College, Pune**, and former **AI/ML Developer Intern at Vedika.Health** (Jan 1 – Aug 30, 2024).
 
 My expertise centers on developing production-grade machine learning pipelines, multimodal AI architectures, and resilient backend systems. I specialize in **Multimodal Information Verification, Intelligent Document Processing (IDP), Speech/Audio Analytics, and Sovereign Data Systems**, bridging theoretical ML models with high-throughput engineering.
 
 * 🎓 **MSc in Data Science** — Fergusson College, Pune
-* 💼 **Former AI/ML Developer Intern** at **vedika.health** (Jan 2024 – Aug 2024)
+* 💼 **Former AI/ML Developer Intern** at **Vedika.Health** (Jan 2024 – Aug 2024)
 * 🏛️ **Fellowship Contributor** — **Bharat Digital Fellowship (2026 Cohort)** for *Project Samarth*
 * 🤖 **Applied AI & GenAI Systems**: Hybrid ensemble models, local LLM inference (Ollama/LLaMA-3.2), and semantic embeddings
 * 📄 **Intelligent Document Processing (IDP)**: End-to-end OCR pipelines, layout analysis, OpenCV preprocessing, and entity extraction
@@ -257,12 +257,12 @@ A sovereign, zero-cloud-cost analytical engine transforming open government data
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=vj220803&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-stats-extended.vercel.app/api?username=vj220803&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="175"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vj220803&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=vj220803&layout=compact&theme=tokyonight&hide_border=true"
     height="175"
     alt="Top Languages"
   />
@@ -273,7 +273,7 @@ A sovereign, zero-cloud-cost analytical engine transforming open government data
 # 🏆 Education & Professional Highlights
 
 * 🎓 **MSc in Data Science** — Fergusson College, Pune
-* 💼 **Former AI/ML Developer Intern** — vedika.health (Jan 1, 2024 – Aug 30, 2024)
+* 💼 **Former AI/ML Developer Intern** — Vedika.Health (Jan 1, 2024 – Aug 30, 2024)
 * 🏛️ **Fellowship Contributor** — Bharat Digital Fellowship (2026 Cohort) for *Project Samarth*
 * 📜 **Academic Research**: Author & Developer of *"SmartCareer: An AI-Powered Integrated Career Development and Recruitment Intelligence Platform"*
 * 🛡️ **Verification Systems**: Developed *FactualAI*, evaluating 44,898 articles with 95.26% accuracy across 5 multimodal channels
